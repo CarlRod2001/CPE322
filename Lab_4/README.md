@@ -15,6 +15,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic8.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic9.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic10.JPG)
+### **Start Django project "stevens"**
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic11.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic12.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic13.JPG)
@@ -23,6 +24,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic16.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic17.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic18.JPG)
+### **Working project**
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic19.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic20.JPG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_4/Pics/Lab_4_pic21.JPG)
