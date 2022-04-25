@@ -12,5 +12,5 @@ The code given (sudo pip3 install -U numpy) only provided an error message after
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_8/numpy%20error%20message.PNG)
 ![](https://github.com/CarlRod2001/CPE322/blob/main/Lab_8/numpy%20error%20message%202.PNG)
 
-I followed what what another classmate did and used the following line of code before running the last graph (python3 plt_cv2.py):
+I followed what what another classmate did and used the following line of code before running the last graph (python3 plt_cv2.py):  
 pip3 install --force-reinstall numpy==1.20.1
